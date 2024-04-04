@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(./Img/netflix-collection.jpg);
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.color{
+    background-color: rgba(0, 0, 0, 0.605);
+}
+.logo img{
+    height: 110px;
+    width: 150px;
+    display: block;
+}
+input[type=email]{
+    height: 56px;
+    width: 314px;
+    padding: 24px 16px 8px;
+    margin: 15px;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-weight: 400;
+    color: white;
+}
+input[type=password]{
+    height: 56px;
+    width: 314px;
+    padding: 24px 16px 8px;
+    margin: 15px;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-weight: 400;
+    color: white;
+}
+button{
+height: 40px;
+width: 314px;
+background: transparent;
+}
+#one{
+    background-color: rgb(244, 21, 21);
+    border: none;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+}
+#one:hover{
+    background-color: rgb(181, 9, 9);
+}
+#two{
+    background-color: rgba(128, 128, 128, 0.311);
+    border: none;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+}
+#two:hover{
+    background-color: rgba(128, 128, 128, 0.518);
+}
+.OR{
+    color: gray;
+    font-weight: 600;
+}
+.card{
+    width: 450px;
+    height: 600px;
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    margin-left: 55px;
+
+}
+#card-con{
+    background-color: rgba(0, 0, 0, 0.767);
+}
+
+#cb{
+    float: left;
+    margin-left: 55px;
+}
+#rm{
+    text-decoration: none;
+    color: white;
+    font-size:15px;
+}
+#ntn{
+    float: left;
+    margin-left: 55px;
+}
+#sun{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+#sun:hover{
+    text-decoration: underline;
+}
+#text-1{
+    float: left;
+    margin-left: 50px;
+    font-size: small;
+    color: gray;
+}
+#QC{
+    text-decoration: none;
+}
+#QC:hover{
+text-decoration: underline;
+}
+a{
+    font-weight: 350;
+    color: gray;
+}
+#opt{
+    border: none;
+    background-color: rgba(0, 0, 0, 0.256);
+    color: white;
+    font-weight: bold;
+}
+#opt option{
+    color: black;
+}
