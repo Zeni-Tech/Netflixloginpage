@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    background-image: url(./Img/netflix-collection.jpg);
+    background-image: url(./netflix-collection.jpg);
     object-fit: cover;
     background-position: center;
     background-repeat: no-repeat;
